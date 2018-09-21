@@ -1,0 +1,37 @@
+_repo: Luther-vol-6-of-6_54811
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lamond, E. M.
+    gutenberg_agent_id: '45085'
+    url: http://www.gutenberg.org/2009/agents/45085
+creator:
+  author:
+    agent_name: Grisar, Hartmann
+    alias: Grisar, Hartmannus
+    birthdate: 1845
+    deathdate: 1932
+    gutenberg_agent_id: '45083'
+    url: http://www.gutenberg.org/2009/agents/45083
+  editor:
+    agent_name: Dessoulavy, C. L. (Charles Louis)
+    aliases:
+    - Dessoulavy, Charles Louis
+    - Cappadelta, Luigi
+    gutenberg_agent_id: '45145'
+    url: http://www.gutenberg.org/2009/agents/45145
+description: ''
+gutenberg_issued: '2017-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luther, Martin, 1483-1546'
+- !lcc 'BR'
+- GITenberg
+title: Luther, vol. 6 of 6
+url: http://www.gutenberg.org/ebooks/54811
